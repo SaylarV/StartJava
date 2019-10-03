@@ -13,7 +13,7 @@ public class Cycle {
         }        
         System.out.println();
         int j = 10;
-        int sun = 0;
+        int sum = 0;
         do {
             if (j%2 != 0) sum = sum + j;            
             j++;
